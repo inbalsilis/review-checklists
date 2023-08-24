@@ -1857,6 +1857,15 @@
             "severity": "Medium",
             "link": "https://learn.microsoft.com/azure/security-center/"
         },
+         {
+            "category": "Security, Governance and Compliance",
+            "subcategory": "Security",
+            "text": "Enable Defender for Cloud paid plans for advanced security. There are plans for Servers, Databases, Containers, Key Vault, Storage, App Services, APIs, and more",
+            "waf": "Security",
+            "guid": "a4a5f45d-25c3-4393-8c18-2c43f492643f",
+            "severity": "Medium",
+            "link": "https://learn.microsoft.com/en-us/azure/defender-for-cloud/plan-defender-for-servers-select-plan"
+        },
         {
             "category": "Security, Governance and Compliance",
             "subcategory": "Security",
